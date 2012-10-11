@@ -1,0 +1,1 @@
+This is a website I made following this tutorial: http://namanyayg.com/weblog/javascript-challenge-fading-single-page-website/. This is my first time really trying to use javascript and I think everything ended up looking pretty good. It has a navigation that fades in the content for each page without reloading the page.
